@@ -1,0 +1,26 @@
+.box1 {
+   position: fixed;
+   margin-top: 50px;
+   margin-left: 10em;
+   
+   width: 65px;
+   border: dashed black 1cm;
+    
+}
+
+.box1 p {
+    margin: -2px;
+    background-color: black;
+    color: white;
+    margin-top: -33px;
+}
+
+.box2 {
+    display: flex;
+    width: 600px;
+    justify-content: center;
+    text-align: center;
+    margin: -10px auto;
+    background-color: #b5c0af;
+    
+}
